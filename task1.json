@@ -1,0 +1,45 @@
+ {
+   "Professional gamers in Starcraft 2": 
+   [
+  {
+    "name": "Joona Sotala",
+    "age": 21,
+    "nickname": "Serral",
+    "race" : "Zerg",
+    "team" : "Ence eSports",
+    "country": "Finland",
+    "total earnings": "$736,780.58",
+    "wcs points": "10200"
+ },
+ {
+   "name": "Alex Sunderhaft",
+    "age": 21,
+    "nickname": "Neeb",
+    "race" : "Protoss",
+    "team" : "Ting",
+    "country": "USA",
+    "total earnings": "$471,347.39",
+    "wcs points": "5500"
+ },
+ {
+   "name": "Lee Shin-hyung",
+    "age": 26,
+    "nickname": "INnoVation",
+    "race" : "Terran",
+    "team" : "KaiZi Gaming",
+    "country": "South Korea",
+    "total earnings": "$659,805.14",
+    "wcs points": "2150"
+ },
+ {
+   "name": "Riccardo Romiti",
+    "age": 17,
+    "nickname": "Reynor",
+    "race" : "Zerg",
+    "team" : "GamersOrigin",
+    "country": "Italy",
+    "total earnings": "$116,792.27",
+    "wcs points": "7365"
+ }
+  ]
+}
